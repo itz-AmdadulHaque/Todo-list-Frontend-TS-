@@ -1,10 +1,12 @@
-# ToDo List [visit]()
+# ToDo List [(visit)](https://todo-list-frontend-ts.onrender.com/)
 
-This is a Todo List application built using Tailwind css, React and TypeScript. With this app, you can easily add, delete, and edit your todos, helping you stay organized and manage your tasks efficiently.
+A MERN stack todo list web app that enables you to effortlessly add, delete, and edit todos. The frontend is powered by React with TypeScript, enhanced with Tailwind CSS, while the backend is built using Node.js and Express with TypeScript. Simplify your task management with this full-stack solution."
 
 # Env variable
 
 - VITE_BASE_URL
+
+# [Backend Code] (https://github.com/itz-AmdadulHaque/Todo-list-Backend-TS-)
 
 # React + TypeScript + Vite
 
