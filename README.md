@@ -6,7 +6,7 @@ A MERN stack todo list web app that enables you to effortlessly add, delete, and
 
 - VITE_BASE_URL
 
-# [Backend Code] (https://github.com/itz-AmdadulHaque/Todo-list-Backend-TS-)
+# Backend Code [(Link)](https://github.com/itz-AmdadulHaque/Todo-list-Backend-TS-)
 
 # React + TypeScript + Vite
 
